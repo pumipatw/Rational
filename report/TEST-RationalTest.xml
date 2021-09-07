@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-6GDT1SA" name="RationalTest" skipped="0" tests="7" time="0.311" timestamp="2021-09-07T14:22:45">
+  <properties>
+    <property name="ant.library.dir" value="D:\IntelliJ IDEA 2020.3.3\lib\ant\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="15" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="D:\jdk!\java.base;D:\jdk!\java.compiler;D:\jdk!\java.datatransfer;D:\jdk!\java.desktop;D:\jdk!\java.instrument;D:\jdk!\java.logging;D:\jdk!\java.management;D:\jdk!\java.management.rmi;D:\jdk!\java.naming;D:\jdk!\java.net.http;D:\jdk!\java.prefs;D:\jdk!\java.rmi;D:\jdk!\java.scripting;D:\jdk!\java.se;D:\jdk!\java.security.jgss;D:\jdk!\java.security.sasl;D:\jdk!\java.smartcardio;D:\jdk!\java.sql;D:\jdk!\java.sql.rowset;D:\jdk!\java.transaction.xa;D:\jdk!\java.xml;D:\jdk!\java.xml.crypto;D:\jdk!\jdk.accessibility;D:\jdk!\jdk.aot;D:\jdk!\jdk.attach;D:\jdk!\jdk.charsets;D:\jdk!\jdk.compiler;D:\jdk!\jdk.crypto.cryptoki;D:\jdk!\jdk.crypto.ec;D:\jdk!\jdk.crypto.mscapi;D:\jdk!\jdk.dynalink;D:\jdk!\jdk.editpad;D:\jdk!\jdk.hotspot.agent;D:\jdk!\jdk.httpserver;D:\jdk!\jdk.incubator.foreign;D:\jdk!\jdk.incubator.jpackage;D:\jdk!\jdk.internal.ed;D:\jdk!\jdk.internal.jvmstat;D:\jdk!\jdk.internal.le;D:\jdk!\jdk.internal.opt;D:\jdk!\jdk.internal.vm.ci;D:\jdk!\jdk.internal.vm.compiler;D:\jdk!\jdk.internal.vm.compiler.management;D:\jdk!\jdk.jartool;D:\jdk!\jdk.javadoc;D:\jdk!\jdk.jcmd;D:\jdk!\jdk.jconsole;D:\jdk!\jdk.jdeps;D:\jdk!\jdk.jdi;D:\jdk!\jdk.jdwp.agent;D:\jdk!\jdk.jfr;D:\jdk!\jdk.jlink;D:\jdk!\jdk.jshell;D:\jdk!\jdk.jsobject;D:\jdk!\jdk.jstatd;D:\jdk!\jdk.localedata;D:\jdk!\jdk.management;D:\jdk!\jdk.management.agent;D:\jdk!\jdk.management.jfr;D:\jdk!\jdk.naming.dns;D:\jdk!\jdk.naming.rmi;D:\jdk!\jdk.net;D:\jdk!\jdk.nio.mapmode;D:\jdk!\jdk.sctp;D:\jdk!\jdk.security.auth;D:\jdk!\jdk.security.jgss;D:\jdk!\jdk.unsupported;D:\jdk!\jdk.unsupported.desktop;D:\jdk!\jdk.xml.dom;D:\jdk!\jdk.zipfs;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-antlr.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-bcel.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-bsf.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-log4j.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-oro.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-regexp.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-resolver.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-xalan2.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-commons-logging.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-commons-net.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jai.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-javamail.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jdepend.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jmf.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jsch.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-junit.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-junit4.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-junitlauncher.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-launcher.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-netrexx.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-swing.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-testutil.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-xz.jar;D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant.jar;D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="os.name" value="Windows 10" />
+    <property name="java.vm.specification.version" value="15" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="user.country" value="US" />
+    <property name="sun.boot.library.path" value="D:\jdk\bin" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile D:\Gemini-2020\git\build.xml test" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\pooh9" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2021-01-19" />
+    <property name="java.home" value="D:\jdk" />
+    <property name="basedir" value="D:\Gemini-2020\git" />
+    <property name="file.separator" value="\" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="15" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="15.0.2+7-27" />
+    <property name="user.name" value="pooh9" />
+    <property name="ant.file" value="D:\Gemini-2020\git\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="ant.core.lib" value="D:\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="D:\Temp\" />
+    <property name="java.version" value="15.0.2" />
+    <property name="user.dir" value="D:\Gemini-2020\git" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="D:\IntelliJ IDEA 2020.3.3\lib\ant" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="java.library.path" value="D:\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;D:\jdk\bin;D:\sonar-scanner-4.6.0.2311-windows\bin;D:\maven\apache-maven-3.6.3\bin;D:\flutter\bin\;D:\MinGW\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Users\pooh9\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Ruby30-x64\bin;C:\Users\pooh9\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\pooh9\AppData\Local\Programs\Python\Python39\;C:\Users\pooh9\.windows-build-tools\python27\;C:\Users\pooh9\.windows-build-tools\python27\;C:\Users\pooh9\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Users\pooh9\AppData\Roaming\npm;C:\Users\pooh9\AppData\Roaming\nvm;C:\Program Files\nodejs;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vm.version" value="15.0.2+7-27" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="59.0" />
+  </properties>
+  <testcase classname="RationalTest" name="testComparedTo" time="0.016" />
+  <testcase classname="RationalTest" name="testAdd" time="0.0" />
+  <testcase classname="RationalTest" name="testSubtract" time="0.0" />
+  <testcase classname="RationalTest" name="testToString" time="0.0" />
+  <testcase classname="RationalTest" name="testEquals" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply" time="0.0" />
+  <testcase classname="RationalTest" name="testConstructor" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
